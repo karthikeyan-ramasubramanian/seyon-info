@@ -2947,7 +2947,9 @@ h1, h2, h3, h4, h5, h6, .view-more, .read-more, .main-menu .navbar-collapse li a
       width: 30px;
       display: block;
       margin: 7px 0; }
-
+.navBr {
+  font-size: 70%;
+}
 /* Menu Icons */
 .menu-icons {
   -webkit-box-flex: 0;
