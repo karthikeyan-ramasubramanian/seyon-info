@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------------
-    Template Name: Telco - Creative Agency HTML Template
+    Template Name: Seyon Info- Creative Agency HTML Template
     Template URI: https://webtend.net/demo/html/telco/
     Author: WebTend
     Author URI:  https://webtend.net/
