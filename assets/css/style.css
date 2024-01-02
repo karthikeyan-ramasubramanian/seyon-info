@@ -1091,7 +1091,8 @@ h1, h2, h3, h4, h5, h6, .view-more, .read-more, .main-menu .navbar-collapse li a
 .pb-140,
 .py-140 {
   padding-bottom: 140px;
-  background-color: #f1f1f1; }
+  /* background-color: #f1f1f1;  */
+}
 
 .pb-145,
 .py-145 {
