@@ -59,7 +59,6 @@
                                         <span class="icon-bar"></span>
                                     </button>
                                 </div>
-
                                 <div class="navbar-collapse collapse clearfix">
                                     <ul class="navigation clearfix">
                                         <li><a class="navBr" href="about.html">About Us</a></li>
@@ -126,8 +125,6 @@
             </div>
             <!--End Header Upper-->
         </header>
-       
-       
         <!-- Page Banner Start -->
         <section class="page-banner rel z-1 bg-lighter text-center py-110 rpy-90" style="background-image: url(assets/images/background/banner-bg.png);">
             <div class="container">
@@ -145,8 +142,6 @@
             <img class="half-circle-shape" src="assets/images/shapes/half-circle.png" alt="Shape">
         </section>
         <!-- Page Banner End -->
-
-       
         <!-- Contact Section Start -->
         <section class="contact-section py-140 rpy-100">
             <div class="container">
@@ -182,7 +177,7 @@
                         </div>
                     </div>
                     <div class="col-lg-8">
-                        <form class="contact-form wow fadeInRight delay-0-2s" action="#">
+                        <form class="contact-form wow fadeInRight delay-0-2s" action="./assets/js/form-process.php" method="post" onsubmit="event.preventDefault(); submitForm();">
                             <div class="contact-form-inner">
                                 <h3 class="contact-title mb-35">Send a message</h3>
                                 <div class="row clearfix">
@@ -206,6 +201,16 @@
                                             <input type="text" id="subject" name="subject" class="form-control" placeholder="Subject" required="">
                                         </div>
                                     </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <input type="number" id="minBudget" name="minBudget" class="form-control" placeholder="Minimum Budget in Rs." required>
+                                        </div>
+                                     </div>
+                                     <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <input type="number" id="maxBudget" name="maxBudget" class="form-control" placeholder="Maximum Budget in Rs." required>
+                                        </div>
+                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-group">
                                             <textarea name="message" id="message" rows="5" class="form-control" placeholder="Message" required=""></textarea>
@@ -343,6 +348,8 @@
     <script src="assets/js/wow.min.js"></script>
     <!-- Custom script -->
     <script src="assets/js/script.js"></script>
+
+    <script src="mailSend"></script>
 
 </body>
 </html>
