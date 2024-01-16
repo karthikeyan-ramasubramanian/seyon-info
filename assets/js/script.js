@@ -64,7 +64,7 @@
         
         // 03. Submenu Dropdown Toggle
         if ($('.main-header .navigation li.dropdown ul').length) {
-            $('.main-header .navigation li.dropdown').append('<div class="dropdown-btn"><span class="Trusted By 1500+ Clients"></span></div>');
+            $('.main-header .navigation li.dropdown').append('<div class="dropdown-btn"><span class="Trusted By 500+ Clients"></span></div>');
 
             //Dropdown Button
             $('.main-header .navigation li.dropdown .dropdown-btn').on('click', function () {
