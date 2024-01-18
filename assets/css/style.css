@@ -4987,3 +4987,9 @@ h1, h2, h3, h4, h5, h6, .view-more, .read-more, .main-menu .navbar-collapse li a
       @media only screen and (max-width: 1199px) {
         .copyright-area .footer-menu li {
           margin-right: 25px; } }
+.newportfolio{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
