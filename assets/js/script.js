@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------------
-    Template Name: Seyon Info- Creative Agency HTML Template
+    Template Name: Seyon Info-  
     Template URI: https://webtend.net/demo/html/seyon/
     Author: WebTend
     Author URI:  https://webtend.net/
