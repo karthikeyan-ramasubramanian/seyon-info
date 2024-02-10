@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------------
-    Template Name: Seyon Info-  
+    Template Name: Seyon Info Solutions-  
     Template URI: https://webtend.net/demo/html/seyon/
     Author: WebTend
     Author URI:  https://webtend.net/
