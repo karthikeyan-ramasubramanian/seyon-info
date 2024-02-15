@@ -278,6 +278,7 @@ input[type=checkbox], input[type=radio] {
 .sub-title {
   font-weight: 700;
   color: #824CF2;
+  font-size: 22px;
   display: inline-block;
   text-transform: uppercase;
   text-decoration: underline;
@@ -882,7 +883,7 @@ h1, h2, h3, h4, h5, h6, .view-more, .read-more, .main-menu .navbar-collapse li a
 .py-130 {
   padding-top: 130px; }
 
-.pt-135,
+.pt-50,
 .py-135 {
   padding-top: 135px; }
 
@@ -1881,7 +1882,7 @@ h1, h2, h3, h4, h5, h6, .view-more, .read-more, .main-menu .navbar-collapse li a
   .rpt-130,
   .rpy-130 {
     padding-top: 130px; }
-  .rpt-135,
+  .rpt-50,
   .rpy-135 {
     padding-top: 135px; }
   .rpt-140,
@@ -5211,14 +5212,14 @@ h1, h2, h3, h4, h5, h6, .view-more, .read-more, .main-menu .navbar-collapse li a
 .content {
   display: flex;
   flex-direction: column;
-  row-gap: 30px;
+  row-gap: ;
   align-items: center;
 }
 
 @media (min-width: 992px) {
   .content {
     align-items: initial;
-    row-gap: 48px;
+    row-gap: ;
   }
 }
 
