@@ -559,10 +559,8 @@ a.theme-btn {
   animation: 5s down-up-one infinite; }
 
 .circle-shape {
-  left: 45%;
-  top: 10%;
-  -webkit-animation: 15s moveLeftRight infinite;
-  animation: 15s moveLeftRight infinite; }
+  left: 65%;
+  top: 10%; }
 
 .half-circle-shape {
   left: 50%;
