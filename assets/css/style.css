@@ -53,7 +53,9 @@ body {
   line-height: 1.65;
   font-size: 16px;
   font-family: "Inter", sans-serif;}
-
+p{
+  text-justify:initial;
+}
 a {
   color: #494A4D;
   cursor: pointer;
