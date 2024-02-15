@@ -3297,8 +3297,8 @@ h1, h2, h3, h4, h5, h6, .view-more, .read-more, .main-menu .navbar-collapse li a
   .creative-area .circle-shape,
   .team-section-bg .circle-shape,
   .vision-mission-area .circle-shape {
-    left: 6%;
-    top: 15%; }
+    right: 0;
+    top: 77px;}
   .creative-area .half-circle-shape,
   .team-section-bg .half-circle-shape,
   .vision-mission-area .half-circle-shape {
