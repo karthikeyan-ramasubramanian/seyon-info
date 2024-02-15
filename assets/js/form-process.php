@@ -7,7 +7,7 @@ $minBudget = $_POST['minBudget'];
 $maxBudget = $_POST['maxBudget'];
 $message = $_POST['message'];
 
-$to = 'nithinbharathi9325@gmail.com';
+$to = 'venkat.techsnapie@gmail.com';
 $headers = 'From: ' . $email . "\r\n" .
    'Reply-To: ' . $email . "\r\n" .
    'X-Mailer: PHP/' . phpversion();
