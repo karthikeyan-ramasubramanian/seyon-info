@@ -374,4 +374,4 @@
 
 })(window.jQuery);
 
-document.querySelector("p").classList.add("text-justify");
+document.querySelector("p").classList.add("pt");

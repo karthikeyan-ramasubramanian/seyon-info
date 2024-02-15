@@ -54,7 +54,22 @@ body {
   font-size: 16px;
   font-family: "Inter", sans-serif;}
 p{
-  text-justify:initial;
+  text-align:justify;
+}
+p {
+  margin: 0 0 10px;
+}
+.pt{
+  text-align: justify;
+}
+p {
+  
+  font-size: 15px;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
 }
 a {
   color: #494A4D;
