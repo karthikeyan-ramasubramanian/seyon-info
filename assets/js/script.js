@@ -373,3 +373,5 @@
     });
 
 })(window.jQuery);
+
+document.querySelector("p").classList.add("text-justify");
