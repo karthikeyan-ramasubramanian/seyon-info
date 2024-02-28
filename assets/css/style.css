@@ -5227,14 +5227,14 @@ h1, h2, h3, h4, h5, h6, .view-more, .read-more, .main-menu .navbar-collapse li a
 .content {
   display: flex;
   flex-direction: column;
-  row-gap: ;
+  
   align-items: center;
 }
 
 @media (min-width: 992px) {
   .content {
     align-items: initial;
-    row-gap: ;
+   
   }
 }
 
