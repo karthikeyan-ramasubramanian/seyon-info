@@ -4766,11 +4766,11 @@ h1, h2, h3, h4, h5, h6, .view-more, .read-more, .main-menu .navbar-collapse li a
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center; }
-  @media only screen and (max-width: 385px) {
+  @media only screen and (max-width: 365px) {
     .contact-form,
     .contact-info-wrap {
       padding-left: 25px;
-      padding-right: 35px; } }
+      padding-right: 25px; } }
 
 .contact-info-item {
   display: -webkit-box;
