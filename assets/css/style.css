@@ -4762,7 +4762,7 @@ h1, h2, h3, h4, h5, h6, .view-more, .read-more, .main-menu .navbar-collapse li a
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  padding: 50px 10px;
+  padding: 50px 40px;
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center; }
